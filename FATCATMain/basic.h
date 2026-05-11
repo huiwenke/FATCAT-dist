@@ -5,6 +5,8 @@
 #include <sstream>
 #include <iosfwd>
 #include <string>
+#include <cstring>
+#include <cstdlib>
 #include <vector>
 #include <unistd.h>
 #include <math.h>

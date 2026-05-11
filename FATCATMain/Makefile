@@ -1,5 +1,5 @@
 CC = g++
-CCOPT = -O2 -Wall
+CCOPT = -O2 -Wall -std=c++98 -no-pie
 LIBS = -lm
 INCDIRS = -I./
 CFLAGS = ${CCOPT} ${INCDIRS}
